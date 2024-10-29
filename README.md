@@ -24,20 +24,36 @@ This is a simple C program that lets the user play the classic **Rock, Paper, Sc
 To compile the code, open a terminal in the project directory and run:
 ```bash
 gcc -o rock_paper_scissors game.c
-
-
+```
+## Execution
+Run the program with:
+```
 ./rock_paper_scissors
+```
+## Example Interaction
 Welcome to Rock, Paper, Scissors! Press 'q' to quit or any other key to continue:
+
 x
+
 Enter your move (r for rock, p for paper, s for scissors): r
+
 Computer's move: s
+
 You win!
+
 Press 'q' to quit or any other key to continue:
+
 x
+
 Enter your move (r for rock, p for paper, s for scissors): p
+
 Computer's move: r
+
 You win!
+
 Press 'q' to quit or any other key to continue:
+
 q
+
 Bye Bye!
 
